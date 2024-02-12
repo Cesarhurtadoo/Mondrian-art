@@ -35,14 +35,6 @@ Additionally, you can modify the `randomColor()` function to change the color pa
 - Python 3.x
 - Tkinter (usually included with Python)
 
-## Example
-
-![Example Mondrian-style Art](example_art.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to add more details or sections as needed!
