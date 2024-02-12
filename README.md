@@ -1,4 +1,4 @@
-Sure, here's a basic README for your Mondrian-style random art generator:
+
 
 ---
 
